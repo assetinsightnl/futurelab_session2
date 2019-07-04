@@ -9,6 +9,6 @@ Navigate to the directory in which you have forked or downloaded the code from t
 Use the 'run' button on top of the screen to run the code, or select the cell which is to be executed and press 'shift + enter'
 In order to change the parameters of the model, change them in the correct cell and re-execute that cell and all cells after that one
 
-### The notebook contains commented text (green colored, starts with #). This text will guide you through the excersizes
+### The notebook contains commented text (green colored, starts with #). This text will guide you through the excersises
 
 
